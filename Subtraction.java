@@ -10,7 +10,7 @@ System.out.print("Enter second number : ");
 double num2 = sc.nextDouble();
 
 double sum = num1 - num2;
-System.out.println("The sum of " + num1 + "and" + num2 "is : " + sum);
+System.out.println("The sum of " + num1 + "and" + num2 + "is : " + sum);
 scanner.close();
 }
 }
